@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://spiky-star.com" target="blank">
+ <a href="https://spiky-star.com" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="spiky-star" />
  </a>
  <a href="https://linkedin.com/in/gengjiarong" target="_blank">
