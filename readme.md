@@ -31,7 +31,7 @@
   <samp>
     <a href="https://twitter.com/gengjiarong">「 X Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack flutter application developer from <b>China</b> 」
     <br>
     <br>
   </samp>
@@ -41,7 +41,7 @@
  <a href="https://spiky-star.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="spiky-star" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/spiky-star" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="spiky-star"/>
  </a>
  <!-- <a href="https://dev.to/spiky-star" target="_blank">
@@ -50,7 +50,7 @@
  <a href="https://twitter.com/spiky-star_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/spiky-star_dev" target="_blank">
+ <a href="https://instagram.com/spiky-star" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="spiky-star" />
  </a> 
  <a href="https://facebook.com/spiky-star.world" target="_blank">
@@ -67,7 +67,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: spiky-star.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: spikystar.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/spiky-star/spiky-star/issues)
 
 </p>
@@ -78,7 +78,7 @@
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Flutter](https://img.shields.io/badge/Flutter-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
