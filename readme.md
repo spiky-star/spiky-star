@@ -31,7 +31,7 @@
   <samp>
     <a href="https://twitter.com/gengjiarong">「 X Me 」</a>
     <br>
-    「 I am a full stack flutter/Java/Go/Nodejs application developer 」
+    「 I am a full stack flutter/Java/Nodejs application developer 」
     <br>
     <br>
   </samp>
