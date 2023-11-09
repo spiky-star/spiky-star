@@ -63,24 +63,10 @@
 ![Java](https://img.shields.io/badge/Java-FF4154?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Egg.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=egg&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Egg.js](https://img.shields.io/badge/Egg.js-000000?style=for-the-badge&logo=egg&logoColor=white)
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/spiky-star">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spiky-star&theme=radical&border=7F3FBF&background=0D1117" alt="SpikyStar's GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/spiky-star">
