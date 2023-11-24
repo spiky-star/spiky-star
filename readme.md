@@ -63,7 +63,8 @@
 ![Java](https://img.shields.io/badge/Java-FF4154?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Egg.js](https://img.shields.io/badge/Egg.js-000000?style=for-the-badge&logo=egg&logoColor=white)
+![Egg.js](https://img.shields.io/badge/Egg.js-green?style=for-the-badge&logo=egg&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=egg&logoColor=white)
 
 <br/>
 
