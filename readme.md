@@ -22,14 +22,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://spiky-star.com">Spiky-Star</a></b>
+                <b>Spiky-Star</b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://twitter.com/gengjiarong">「 X Me 」</a>
+<!--     <a href="https://twitter.com/gengjiarong">「 X Me 」</a> -->
     <br>
     「 I am a full stack flutter/Java/Nodejs application developer 」
     <br>
